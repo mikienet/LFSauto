@@ -1,9 +1,4 @@
-/*
- * chapter.h
- *
- *  Created on: Mar 19, 2021
- *      Author: kmb
- */
+
 
 #ifndef CHAPTER_H_
 #define CHAPTER_H_
