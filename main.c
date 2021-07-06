@@ -1,12 +1,3 @@
-/*
- *
- *    Linux From Scratch bash extractor !
- *
- *    Copyright 2021 Keith Michael Bradley
- *          (all rights reserved)
- *
- */
-
 
 
 #define FALSE 0
