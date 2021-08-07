@@ -1,4 +1,9 @@
-
+/*
+ * chapter.h
+ *
+ *  Created on: Mar 19, 2021
+ *      Author: kmb
+ */
 
 #ifndef CHAPTER_H_
 #define CHAPTER_H_
@@ -49,6 +54,8 @@
 //
   const
   char        Ch5_name[] = "chapter-cross-tools";          // Chapter 5 anchor tag name attribute.
+/*  const
+  char        Ch51_name[] = "ch-tools-introduction";       // Chapter 5.1 anchor tag name attribute.*/
   const
   char        Ch52_name[] = "ch-tools-binutils-pass1";     // Chapter 5.2 anchor tag name attribute.
   const
@@ -99,8 +106,8 @@
 //
   const
   char        Ch7_name[] = "chapter-chroot-temporary-tools";// Chapter 7 anchor tag name attribute.
-  const
-  char        Ch71_name[] = "ch-tools-introduction-chroot";// Chapter 7.1 anchor tag name attribute.
+/*  const
+  char        Ch71_name[] = "ch-tools-introduction-chroot";// Chapter 7.1 anchor tag name attribute.*/
   const
   char        Ch72_name[] = "ch-tools-changingowner";      // Chapter 7.2 anchor tag name attribute.
   const
